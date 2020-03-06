@@ -1,3 +1,4 @@
+package br.com.fiap.modelo;
 
 public class Disciplina {
     private String nome;

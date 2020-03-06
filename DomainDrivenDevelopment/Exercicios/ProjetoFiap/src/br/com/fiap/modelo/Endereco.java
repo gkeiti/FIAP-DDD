@@ -1,3 +1,4 @@
+package br.com.fiap.modelo;
 
 public class Endereco {
     private String logradouro;
